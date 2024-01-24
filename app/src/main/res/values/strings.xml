@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="name_hint">nama</string>
+    <string name="password_allert">Password kurang dari 8 karakter</string>
+    <string name="email_allert">email tidak sesuai format</string>
+    <string name="null_email_allert">email tidak boleh kosong</string>
+    <string name="null_password_allert">password tidak boleh kosong</string>
+    <string name="null_name_allert">nama tidak boleh kosong</string>
+    <string name="have_account">Sudah memiliki akun? </string>
+    <string name="login">Login</string>
+    <string name="or">- atau -</string>
+    <string name="dont_have">Belum memiliki akun? </string>
+    <string name="signup">Signup</string>
+    <string name="name_allert">Nama kurang dari 3 karakter</string>
+    <string name="name_allert_fifty">Nama lebih dari 15 karakter</string>
+    <string name="add_your_post">Tambahkan Postingan Anda!</string>
+    <string name="create_post">Create Your Post!</string>
+    <string name="description">Deskripsi</string>
+    <string name="post">post</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="choose_source">Pilih Sumber Foto</string>
+    <string name="empty_image_warning">Upload gambar terlebih dahulu</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="share_your_location">Share your location</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
